@@ -1,0 +1,47 @@
+.loading-container {
+    text-align: center;
+}
+
+.max-20 {
+    max-width: 20% !important;
+}
+
+.fz-13 {
+    font-size: 13px !important;
+}
+
+.fz-14 {
+    font-size: 14px !important;
+}
+
+.fz-16 {
+    font-size: 16px !important;
+}
+
+.custom-badge {
+    color: white;
+    font-size: 13px;
+}
+
+.custom-table {
+    min-width: 1000px !important;
+}
+
+.custom-table th, .custom-table td, .custom-table tr {
+    color: #333232;
+    font-size: 14px !important;
+}
+
+.custom-table tfoot th {
+    color: white;
+    font-weight: 700;
+}
+
+.custom-table tfoot {
+    background-color: #483D3F;
+}
+
+.creditos {
+    font-size: 12px;
+    font-weight: normal;
+}
